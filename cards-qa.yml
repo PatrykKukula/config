@@ -7,9 +7,9 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank webhook related quality APIs "
+  message: "Welcome to EazyBank webhook  related quality APIs "
   contactDetails:
-    name: "Cherryl Panckade - QA Lead"
+    name: "Cherryl Panckade - XD Lead"
     email: "cherryl@eazybank.com"
   onCallSupport:
     - (310) 875-4367
