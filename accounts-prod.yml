@@ -7,7 +7,7 @@ accounts:
   message: "Welcome to EazyBank accounts related to prof local APIs"
   contactDetails:
     name: "Papa Rapa - LEAD"
-    email: "papa@eazybank.com"
+    email: "{cipher}bc59d3da9a36d666d738ab16c7a76e03423470cfa84fe7943cbe7d5c8a00310d05aac7153aeab4dba2a7a589728bbde2"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
