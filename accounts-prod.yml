@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related to prof local APIs"
+  contactDetails:
+    name: "Papa Rapa - LEAD"
+    email: "papa@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
